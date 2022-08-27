@@ -108,7 +108,7 @@ Wool -> Stained Glass Pane is bias.
 
 <https://www.mediafire.com/file/m208ih5kuyk52yk>
 
-<https://www.mediafire.com/file/zg2caio32lu7vs7> (Hard Ver.)
+<https://www.mediafire.com/file/zg2caio32lu7vs7> (Hard ver.)
 ***
 [1.10.2] 失衡之地 (IcyPomelo (巴哈姆特))
 
