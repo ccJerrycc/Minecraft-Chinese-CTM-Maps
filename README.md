@@ -28,7 +28,7 @@ Only posted in chinese. Objectives are 5 Diamond Blocks. No Monument, just colle
 [1.5.X-1.7.X] 天堂路 (Wonderskova)
 
     Survival \ Branching \ 19+0 \ Long \ Hard
-Higher 1.8.X will break negative beacon
+Higher 1.8.X will break negative beacon.
 - <https://forum.gamer.com.tw/Co.php?bsn=18673&sn=681567>
 - <https://www.ptt.cc/man/Minecraft/D738/D8B8/M.1457010971.A.1A2.html>
 
@@ -37,7 +37,7 @@ Higher 1.8.X will break negative beacon
 [1.7.2-1.7.10] 絕地重生 (Felix_Chiu113)
 
     \ Linear-Branching \ 20+0 \  \ Easy
-First Monument works like The Painter
+First Monument works like The Painter.
 - <https://forum.gamer.com.tw/C.php?bsn=18673&snA=123274>*
 </ul>
 
@@ -46,7 +46,7 @@ First Monument works like The Painter
 [1.7.4] 絕命異界生存系列 - NO.1崩裂浮島 (zm0921560606 (巴哈姆特))
 
     Survival \ Branching \ 13+0 \  \
-Render Distance: 16+ chunks
+Render Distance: 16+ chunks.
 - <https://home.gamer.com.tw/creationDetail.php?sn=2657982>
 
 <https://www.mediafire.com/file/2ueu9wb9b91stsb>
@@ -54,7 +54,7 @@ Render Distance: 16+ chunks
 [1.8.X] 亡命螺旋 (Riockas/LeekOWO)
 
     Parkour \ 1 Area \ 2+0 \ Very Short \ Easy
-Only posted and named in Chinese
+Only posted and named in Chinese.
 - <https://forum.gamer.com.tw/C.php?bsn=18673&snA=143004>*
 
 <https://www.mediafire.com/file/b0x9n40zi1cjpgp>
@@ -64,7 +64,7 @@ Only posted and named in Chinese
 [1.8.X] 魔 (jason1006 (巴哈姆特))
 
     \ Open World \ 2+0 \ Very Short \
-Don't break Stone Bricks in Dungeon
+Don't break Stone Bricks in Dungeon.
 -     https://forum.gamer.com.tw/C.php?bsn=18673&snA=138449
 - <http://happy-every-day---hpt.blogspot.com/p/1.html>
 </ul>
@@ -85,7 +85,7 @@ Skill need to set Cheat On.
 [1.8.3-1.8.9] 禁忌法典 (Felix_Chiu113)
 
     Adventure \ Branching \ 16+0 \ Short \ Easy
-The Monument works like The Painter
+The Monument works like The Painter.
 - <https://forum.gamer.com.tw/Co.php?bsn=18673&sn=742033>*
 </ul>
 
@@ -95,7 +95,7 @@ The Monument works like The Painter
 [1.8.7] 傳說 (q505567421 (巴哈姆特))
 
     Survival \ Branching \ 16+0 \  \ Unbeatable
-Purple/Blue Wool Area doesn't exist
+Purple/Blue Wool Area doesn't exist.
 - <https://forum.gamer.com.tw/C.php?bsn=18673&snA=142547>*
 
 <https://www.mediafire.com/file/jh8byub2u0pj980>
@@ -103,7 +103,7 @@ Purple/Blue Wool Area doesn't exist
 [1.10] 熾熱之土 (q505567421 (巴哈姆特))
 
     Survival \ Open World \ 4+0 \ Very Short \ Normal
-Wool -> Stained Glass Pane is bias
+Wool -> Stained Glass Pane is bias.
 - <https://forum.gamer.com.tw/C.php?bsn=18673&snA=144231&tnum=2&subbsn=15>*
 
 <https://www.mediafire.com/file/m208ih5kuyk52yk>
@@ -113,7 +113,7 @@ Wool -> Stained Glass Pane is bias
 [1.10.2] 失衡之地 (IcyPomelo (巴哈姆特))
 
     Adventure \ 1 Area \ 4+0 \ Very Short \ Easy
-Only posted and named in Chinese
+Only posted and named in Chinese.
 - <https://forum.gamer.com.tw/C.php?bsn=18673&snA=148672&tnum=1&subbsn=15>*
 
 <https://www.mediafire.com/file/yd7724pp8o0j4xy>
@@ -121,7 +121,7 @@ Only posted and named in Chinese
 [1.11] 寂魘之淵 (Felix_Chiu113)
 
     Survival \ Branching \ 3+0 \ Very Short \ Normal
-None
+*None*
 -     https://forum.gamer.com.tw/C.php?bsn=18673&snA=150270
 
 <https://mega.nz/file/gkwlUCYC#9-LFAHxqq8ek1WwIFdkKQSdWo-pm1r8pHBYGRHFokYc>
@@ -131,7 +131,7 @@ None
 [1.11] 冰凍世紀 (Felix_Chiu113)
 
     Survival \ Linear \ 3+0 \ Very Short \ Hard
-None
+*None*
 -     https://forum.gamer.com.tw/C.php?bsn=18673&snA=150844
 
 <https://mega.nz/#!YkpEiawJ!3CkGxmw8HRGqqv0bxikNVg8reD912JLP4FEBtViP1q8>
@@ -141,7 +141,7 @@ None
 [1.11.2] 追憶群島 (oXMilciaXo)
 
     \ Open World \ 16+0 \  \
-Render Distance: 14+ chunks
+Render Distance: 14+ chunks.
 - <https://forum.gamer.com.tw/C.php?bsn=18673&snA=177762>
 
 <https://www.mediafire.com/file/udv2hhl59pez5y6>
@@ -149,7 +149,7 @@ Render Distance: 14+ chunks
 [1.11.2] 夢魘精華 (leo6342)
 
     \ Open World \ 2+0 \ \
-This map has English Ver. named ``Nightmare Essence''
+This map has English Ver. named ``Nightmare Essence''.
 -     https://forum.gamer.com.tw/Co.php?bsn=18673&snA=153862
 </ul>
 
@@ -166,7 +166,7 @@ There are 11 Achievements
 [1.12.2] 轟隆之窟 (Felix_Chiu113)
 
     Survival \ Linear \ 3+0 \ Very Short \ Normal
-None
+*None*
 -     https://forum.gamer.com.tw/C.php?bsn=18673&snA=177800
 
 <https://github.com/tony2265/map/releases/download/ctm_Boom_Caverns/V1.2.rar>
@@ -174,7 +174,7 @@ None
 [1.12.2] 絕界行 (Felix_Chiu113)
 
     Survival \ Linear \ 2+0 \ Very Short \ Normal
-None
+*None*
 -     https://forum.gamer.com.tw/C.php?bsn=18673&snA=166145
 
 <https://mega.nz/#!NlQgxSaZ!ZoXu_A43S11yKgJwZSSy7uFVZoqKHgYbf-wkWEJkvmw>
@@ -183,7 +183,7 @@ None
 [1.12.2] 改變未來 (*Various*)
 
     \ Central Hub \ 16+10 \  \
-Need to set Cheat On
+Need to set Cheat On.
 - <https://forum.gamer.com.tw/Co.php?bsn=18673&sn=845825>
 
 <https://www.mediafire.com/file/42fsxx8sxaqknkk> (Singleplayer)
@@ -193,7 +193,7 @@ Need to set Cheat On
 [1.12.2] 詛咒之冬 (*Various*)
 
     Adventure \ Linear \ 3+0 \ Short \ Easy
-Render Distance: 12+ chunks
+Render Distance: 12+ chunks.
 - <https://forum.gamer.com.tw/C.php?bsn=18673&snA=173274>
 - <https://www.dreamcity.studio/map/ctm/woc>
 
@@ -258,7 +258,7 @@ Both Chinese & English.
 [1.16.5] 未知的旅程I - 釋罪 (bigfrog0102)
 
     Adventure \ Linear \ 2+1 \ Very Short \ Easy
-This map has English Ver. named ``Unknown Adventure I - For Acquittal''
+This map has English Ver. named ``Unknown Adventure I - For Acquittal''.
 - <https://forum.gamer.com.tw/C.php?bsn=18673&snA=190709>
 
 <https://drive.google.com/file/d/1V--yOiphD0Y74IXLMUSTbYdYvmcfE7hm>
