@@ -69,10 +69,10 @@ Don't break Stone Bricks in Dungeon.
 - <http://happy-every-day---hpt.blogspot.com/p/1.html>
 </ul>
 
-    https://drive.google.com/file/d/0B2Zpyu4NeulFMjlFdXo5QWtRb00
+    https://drive.google.com/file/d/0B2Zpyu4NeulFMjlFdXo5QWtRb00 (Need permission)
 </pre>
 
-    https://drive.google.com/file/d/0B2Zpyu4NeulFRHJxeWZGOXoyRkE (Hard Ver.)
+    https://drive.google.com/file/d/0B2Zpyu4NeulFRHJxeWZGOXoyRkE (Hard ver., need permission)
 ***
 [1.8.3] 凍結時空 (Felix_Chiu113)
 
@@ -149,11 +149,11 @@ Render Distance: 14+ chunks.
 [1.11.2] 夢魘精華 (leo6342)
 
     \ Open World \ 2+0 \ \
-This map has English Ver. named ``Nightmare Essence''.
+This map has English ver. named ``Nightmare Essence''.
 -     https://forum.gamer.com.tw/Co.php?bsn=18673&snA=153862
 </ul>
 
-    http://adf.ly/1lbIvA (Maybe accessble if resloved)
+    http://adf.ly/1lbIvA (Maybe accessible if resloved)
 ***
 [1.12] 飄浮的島嶼 (Mango02302 (巴哈姆特), 黑莓 (?))
 
@@ -218,7 +218,7 @@ Render Distance: 8+ chunks.
 - <https://www.dreamcity.studio/map/ctm/Mysterious_Territory>
 
 <https://github.com/tony2265/map/releases/download/ctm_Mysterious_Territory/V1.2.rar>
-<https://github.com/tony2265/map/releases/download/ctm_Mysterious_Territory_x/V1.2.zip> (One Punch Man Ver.)
+<https://github.com/tony2265/map/releases/download/ctm_Mysterious_Territory_x/V1.2.zip> (One Punch Man ver.)
 <https://github.com/tony2265/resourcepack/releases/download/ctm_Mysterious_Territory/Mysterious_Territory.zip> (Resource Pack)
 ***
 [1.15.2] Nausea (ccJerrycc#8438 (Discord))
@@ -258,7 +258,7 @@ Both Chinese & English.
 [1.16.5] 未知的旅程I - 釋罪 (bigfrog0102)
 
     Adventure \ Linear \ 2+1 \ Very Short \ Easy
-This map has English Ver. named ``Unknown Adventure I - For Acquittal''.
+This map has English ver. named ``Unknown Adventure I - For Acquittal''.
 - <https://forum.gamer.com.tw/C.php?bsn=18673&snA=190709>
 
 <https://drive.google.com/file/d/1V--yOiphD0Y74IXLMUSTbYdYvmcfE7hm>
