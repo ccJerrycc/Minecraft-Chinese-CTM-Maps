@@ -153,7 +153,7 @@ This map has English ver. named ``Nightmare Essence''.
 -     https://forum.gamer.com.tw/Co.php?bsn=18673&snA=153862
 </ul>
 
-    http://adf.ly/1lbIvA (Maybe accessible if resloved)
+<https://www.mediafire.com/file/d8mepgxf0iiags4>
 ***
 [1.12] 飄浮的島嶼 (Mango02302 (巴哈姆特), 黑莓 (?))
 
