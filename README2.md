@@ -15,12 +15,16 @@
 https://www.mediafire.com/file/226owh3t1l6q654
 
 https://mega.nz/#!5ookTJrL!_vXkEaQxoSnxcm3j61UfQImr8wpCehHIEJL6y1q1628 (多人用資源包)
+
+- 一小部分怪物無法翻譯
 ***
 [1.8.8] 狂亂之境 III: 預言 (lose9749 巴哈姆特)
 
     \ 分支 \ 16+12 \  \
 
 https://drive.google.com/file/d/1F98unCX1jvtlM9xtbz5sPAO-lz_KT7Dw
+
+- 一小部分怪物無法翻譯
 ***
 [1.9] 大地復甦 2 (tst5381 巴哈姆特)
 
