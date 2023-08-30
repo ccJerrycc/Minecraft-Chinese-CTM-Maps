@@ -250,8 +250,8 @@ Difficulty is balanced on Easy.
     Adventure \ Linear \ 3+0 \ Very Short \ Easy
 Both Chinese & English.
 - <https://forum.gamer.com.tw/C.php?bsn=18673&snA=192505>
-- <https://discord.com/channels/706532752152854569/817644477082238987/868821040011313152>
-- <https://discord.com/channels/164200257339654146/205875281553129490/874688724900921354>
+- <https://discord.com/channels/706532752152854569/817644477082238987/868821040011313152> (中文 CTM 社群)
+- <https://discord.com/channels/164200257339654146/205875281553129490/874688724900921354> (CTM Community)
 
 <https://www.mediafire.com/file/q5iahtrff5r2obp>
 ***
@@ -272,6 +272,52 @@ This map has English ver. named ``Unknown Adventure I - For Acquittal''.
 
 <https://github.com/tony2265/map/releases/download/ctm_Labyrinth_Crete/V1.6.0.zip>
 <https://github.com/tony2265/resourcepack/releases/download/ctm_Labyrinth_Crete/v1.0.3.zip> (Resource Pack)
+***
+[1.18.2] 星痕冒險 (*Various*)
+
+    Adventure \ Linear \ 7+0 \  \
+*None*
+- <https://forum.gamer.com.tw/Co.php?bsn=18673&sn=1036595>
+- <https://www.dreamcity.studio/map/lost_in_space>
+
+<https://github.com/tony2265/map/releases/download/ctm_Lost_in_Space/V1.6.0.zip>
+<https://github.com/tony2265/resourcepack/releases/download/ctm_Lost_in_Space/V1.0.2.zip> (Resource Pack)
+***
+[1.19.2] 迷之島 (Xuhuan)
+
+    Adventure \ Open World \ 4+0 \ Very Short \ Easy
+*None*
+- <https://discord.com/channels/886936474723950603/1080228699015749733/1080228699015749733> (創世聯邦)
+
+<https://www.mediafire.com/file/qvj71fzknk4oifk>
+***
+[1.19.2] 卡多蘭遺跡 (EdwinHK)
+
+    Adventure \ Linear \ 2+0 \ Very Short \ Easy
+*None*
+- <https://forum.gamer.com.tw/Co.php?bsn=18673&sn=1052159>
+- <https://discord.com/channels/886936474723950603/1114209752772255865/1114209752772255865> (創世聯邦)
+
+<https://www.mediafire.com/file/j135x4by7brgrgk>
+***
+[1.19.3] 未知的旅程1.5 - 無魂之境 (bigfrog0102)
+
+    Adventure \ Open World \ 3+4 \ Very Short \ Easy
+This map has English ver. named ``Unknown Adventure 1.5 - Soulless Realm''.
+- <https://forum.gamer.com.tw/Co.php?bsn=18673&sn=1050542>
+
+<https://drive.google.com/file/d/199Ded1JlqjKCjIaRxZOiltSxKF0ISCtZ>
+<https://drive.google.com/file/d/1ro_DK3PIelmfpyjJpq8JNYmdK1YTkMne> (keepInventory ver.)
+***
+[1.20.1] 烘焙勇者 試玩版 (*Various*)
+
+    Adventure \ Linear \ 1+0 \ Very Short \ Easy
+*None*
+- <https://forum.gamer.com.tw/Co.php?bsn=18673&sn=1057596>
+- <https://discord.com/channels/886936474723950603/1141398105485484207/1141398105485484207> (創世聯邦)
+
+<https://www.mediafire.com/file/2d47baug3auk6lo>
+<https://www.mediafire.com/file/mqllxv59uohujr6> (Resource Pack)
 ***
 [] 瘋狂之島 (q505567421 (巴哈姆特))
 
