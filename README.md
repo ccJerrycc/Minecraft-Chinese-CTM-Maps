@@ -33,7 +33,7 @@ Only posted in Chinese. Objectives are 5 Diamond Blocks.
 ***
 [1.7.2-1.7.10] 絕地重生 (Felix_Chiu113)
 
-    Adventure \ Linear-Branching \ 20+0 \ Short \ Easy
+    Adventure \ Linear-Branching \ 20+0 \ Short \ Very Easy
 First Monument works like The Painter.
 - <https://forum.gamer.com.tw/C.php?bsn=18673&snA=123274>*
 
@@ -173,6 +173,14 @@ This map has English ver. named `Nightmare Essence`.
 
 <https://www.mediafire.com/file/d8mepgxf0iiags4>
 ***
+[1.12] 海綿 ([kazz397](https://home.gamer.com.tw/kazz397))
+
+    \ Central Hub \ 6+ \  \
+- <https://forum.gamer.com.tw/C.php?bsn=18673&snA=152263>
+```
+https://drive.google.com/file/d/0B-eVM4eRo-pobVNpcHh0UFQ0Smc
+```
+***
 [1.12] 飄浮的島嶼 ([Mango02302](https://home.gamer.com.tw/homeindex.php?owner=Mango02302), 黑莓 (?))
 
     Survival \ Open World \ 13+0 \  \ Easy
@@ -263,13 +271,11 @@ Difficulty was balanced under Easy.
 
 <https://drive.google.com/file/d/1gObKEP-B8KWpzWiPhtTPnpX5Ml_sffRC>
 ***
-[1.16.5] 測試代號：Ntnd/Test Subject: Ntnd (Blacksugary)
+[1.16.5] Test Subject: Ntnd  測試代號：Ntnd (Blacksugary)
 
     Adventure \ Linear \ 3+0 \ Very Short \ Easy
 Both Chinese & English.
 - <https://forum.gamer.com.tw/C.php?bsn=18673&snA=192505>
-- <https://discord.com/channels/706532752152854569/817644477082238987/868821040011313152> (中文 CTM 社群)
-- <https://discord.com/channels/164200257339654146/205875281553129490/874688724900921354> (CTM Community)
 
 <https://www.mediafire.com/file/q5iahtrff5r2obp>
 ***
@@ -295,10 +301,10 @@ This map has English ver. named `Unknown Adventure I - For Acquittal` .
 
 <https://www.mediafire.com/file/qrlf5xyzfze0996>
 ***
-[1.17.1] 賭城風雲錄 (*中文CTM社群*)
+[1.17.1] Alea Iacta Est  賭城風雲錄 (*中文CTM社群*)
 
     \ Casino \ 4+0 \ Short \ Normal
-- <https://discord.com/channels/706532752152854569/817644477082238987/1147140343750467654>
+- <https://discord.com/channels/706532752152854569/817644477082238987/1147140343750467654> (中文CTM社群)
 
 <https://drive.google.com/file/d/18m3ESnM36qcTaO9WZgbqCZc2faAUcSO4>
 ***
@@ -332,17 +338,23 @@ This map has English ver. named `Unknown Adventure I - For Acquittal` .
 [1.19.2] 迷之島 (Xuhuan)
 
     Hardcore \ Open World \ 4+0 \ Very Short \ Easy
-- <https://discord.com/channels/886936474723950603/1080228699015749733/1080228699015749733> (創世聯邦)
+- <https://discord.com/channels/886936474723950603/891755828351217685/1080464785415606322> (創世聯邦)
 
 <https://www.mediafire.com/file/qvj71fzknk4oifk>
 ***
 [1.19.2] 卡多蘭遺跡 (EdwinHK)
 
     Adventure \ Linear \ 2+0 \ Very Short \ Easy
-- <https://forum.gamer.com.tw/Co.php?bsn=18673&sn=1052159>
-- <https://discord.com/channels/886936474723950603/1114209752772255865/1114209752772255865> (創世聯邦)
+- <https://discord.com/channels/886936474723950603/891755828351217685/1114257480827031614> (創世聯邦)
 
 <https://www.mediafire.com/file/j135x4by7brgrgk>
+***
+[1.19.2-] 無晝領域 (EdwinHK)
+
+    Adventure \ Poor \ 5+0 \ Very Short \ Very Easy
+- <https://discord.com/channels/886936474723950603/1260347295124295753/1260347295124295753> (創世聯邦)
+
+<https://cdn.discordapp.com/attachments/1260347295124295753/1260347295610703923/by_EdwinHK.zip?ex=66f723e3&is=66f5d263&hm=93ce9d2c3380cd8627b8e19ce14a66ad4e3e4dd0e18b2aaa0736792af3978107&>
 ***
 [1.19.3] 打烊時間 (1954PinaColada)
 
@@ -381,8 +393,7 @@ This map has English ver. named `Bivalist` .
 [1.20.1] 芒霜之戰 (GeminiLiu_)
 
     Boss \  \ 2+0 \  \
-- <https://discord.com/channels/886936474723950603/1127691403783315497/1127691403783315497> (創世聯邦)
-- <https://forum.gamer.com.tw/Co.php?bsn=18673&sn=1067381>
+- <https://discord.com/channels/886936474723950603/891755828351217685/1141626033578184704> (創世聯邦)
 
 <https://www.mediafire.com/file/wu5511c96cawu57>
 ***
@@ -396,27 +407,52 @@ This map has English ver. named `Bivalist` .
 [1.20.1] 烘焙勇者 試玩版 (*Various*)
 
     Adventure \ Linear \ 1+0 \ Very Short \ Easy
-- <https://discord.com/channels/886936474723950603/1141398105485484207/1141398105485484207> (創世聯邦)
-- <https://forum.gamer.com.tw/Co.php?bsn=18673&sn=1057596>
+- <https://discord.com/channels/886936474723950603/891755828351217685/1141412723528319006> (創世聯邦)
 
 <https://www.mediafire.com/file/2d47baug3auk6lo>
 
 <https://www.mediafire.com/file/mqllxv59uohujr6> (Resource Pack)
 ***
+[1.20.2] Cartocraft  卡多蘭幻境 (*創世聯邦*)
+
+    \ Linear \ 16+0 \ Short \
+- <https://discord.com/channels/886936474723950603/891755828351217685/1240913620532199558> (創世聯邦)
+
+<https://www.mediafire.com/file/csmjpoc8pk7o71x>
+***
+[1.20.2] Islands of Life  生命之島 (jakY1299)
+
+    Adventure \ Linear \ 3+0 \ Very Short \ Easy
+- <https://discord.com/channels/886936474723950603/891755828351217685/1256114144768294985> (創世聯邦)
+
+<https://www.mediafire.com/file/jsxaogxgic8chgj>
+***
 [1.20.4] UNOBTAINABLE (wprxx)
 
-    Survival \ Branching \ 16+0 \ Short \ Normal
+    Survival \ Branching \ 16+0 \ Short \ Hard
 - <https://forum.gamer.com.tw/Co.php?bsn=18673&sn=1071238>
 
 <https://drive.google.com/file/d/1rPoRipKVP_W1Eyue-gTmNTsWXd8wYUFa>
 ***
-[] 瘋狂之島 ([q505567421](https://home.gamer.com.tw/homeindex.php?owner=q505567421))
+[1.21] Blok Magik  方塊魔術 (LeekOWO)
+
+    Adventure \ Poor \ 8+0 \ Very Short \ Very Easy
+- <https://discord.com/channels/886936474723950603/1264704742781620234/1264704742781620234> (創世聯邦)
+
+<https://drive.google.com/file/d/1doVT4Kbo9zC8dwd83fPBrWbGpMU_gJym>
+***
+[1.21] (Merak_X)
+
+    Adventure \ Poor \ 3+0 \ Very Short \ Easy
+There are 4 Advancements.
+- <https://discord.com/channels/886936474723950603/1260952734329475113/1260952734329475113> (創世聯邦)
+
+<https://cdn.discordapp.com/attachments/1260952734329475113/1260952734526476288/ctm.zip?ex=66f75d7f&is=66f60bff&hm=8dc71ab0745849942a7846ae2b03bedba0579a89c4b3e2a109334564d3d400c1&>
+***
+[] 瘋狂之島 ([q505567421](https://home.gamer.com.tw/q505567421))
 
     Survival \ Open World \ 5+0 \  \
 -     https://forum.gamer.com.tw/C.php?bsn=18673&snA=152263
 ```
 https://www.mediafire.com/file/z9enadlvrpep4im
 ```
-***
-    \ Central Hub \ 6+ \  \
-Objectives are 6 Sponges
